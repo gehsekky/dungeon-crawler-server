@@ -1,0 +1,39 @@
+{
+  "db": {
+    "connectionString": "postgres://gehsekky:password@localhost:5432/dungeoncrawler"
+  },
+  "server": {
+    "name": "a dungeon-crawler server",
+    "port": 1337
+  },
+  "map": {
+    "size": 100
+  },
+  "game": {
+    "party": {
+      "startingNumber": 1,
+      "memberNamesPool": [
+        "andy",
+        "brad",
+        "chris",
+        "danny",
+        "evan",
+        "frank",
+        "gerry",
+        "howard",
+        "ignacio",
+        "jimbob",
+        "kevin",
+        "larry",
+        "monica",
+        "nancy",
+        "oprah",
+        "pam",
+        "quinn",
+        "rosie",
+        "sam",
+        "tim"
+      ]
+    }
+  }
+}
