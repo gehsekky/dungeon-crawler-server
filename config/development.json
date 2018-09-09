@@ -1,5 +1,8 @@
 {
-  "map": {
-    "size": 3
+  "db": {
+    "username": "dcrawler",
+    "password": "dcrawler",
+    "database": "dungeon_crawler",
+    "host": "localhost"
   }
 }

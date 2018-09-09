@@ -1,6 +1,10 @@
 {
   "db": {
-    "connectionString": "postgres://gehsekky:password@localhost:5432/dungeoncrawler"
+    "connectionString": "postgres://gehsekky:password@localhost:5432/dungeoncrawler",
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": ""
   },
   "server": {
     "name": "a dungeon-crawler server",
@@ -32,7 +36,11 @@
         "quinn",
         "rosie",
         "sam",
-        "tim"
+        "tim",
+        "veronica",
+        "wendy",
+        "xavier",
+        "zach"
       ]
     }
   }
